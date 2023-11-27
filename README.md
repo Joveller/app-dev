@@ -2,7 +2,7 @@
 My first repository
 <html>
   <head>
-    <title>List of my favorite series</title>
+    List of my favorite series
   </head>
   <body>
     <h1>365 Days</h1>
